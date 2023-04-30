@@ -1,4 +1,3 @@
-  ![header](https://capsule-render.vercel.app/api?type=Waving)
 ### 🚀 About Me
 - 안녕하세요! 김남훈이라고 합니다.
 
@@ -35,5 +34,3 @@
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
-
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
