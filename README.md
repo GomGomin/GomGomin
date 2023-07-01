@@ -33,4 +33,3 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GomGomin&langs_count=8)](https://github.com/GomGomin/github-readme-stats)
