@@ -1,6 +1,7 @@
 ### 🚀 About Me
 - 안녕하세요! 김남훈이라고 합니다.
-
+- <a href="https://instagram.com/nam_hun95?igshid=MjEwN2IyYWYwYw=="><img src="https://img.shields.io/badge/instagram-#E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+- <a href="https://www.notion.so/cc2e3a124cf84c9c94cb3aaa4e80c29f?pvs=4"><img src="https://img.shields.io/badge/notion-#000000?style=for-the-badge&logo=notion-&logoColor=white"></a>
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 ### 📚 Tech Stack
