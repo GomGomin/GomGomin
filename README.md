@@ -1,6 +1,6 @@
 ### 🚀 About Me
 - 안녕하세요! 김남훈이라고 합니다.
-
+<img src="https://img.shields.io/badge/instagram-#E4405F?style=for-the-badge&logo=instagram-&logoColor=white">
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 ### 📚 Tech Stack
