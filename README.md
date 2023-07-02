@@ -1,7 +1,7 @@
 ### 🚀 About Me
 <div align="left">
 - 안녕하세요! 김남훈이라고 합니다.
-
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
 </div>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
